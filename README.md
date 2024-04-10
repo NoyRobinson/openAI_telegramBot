@@ -8,6 +8,6 @@ All questions and answers are saved in a database using Mysql.
 ### Technologies:
 openAI API, telegram API, javascript, nodeJS, Mysql.
 
-![images/telegramVSchatgpt](images/telegramVSchatgpt.jpeg)
+![images/telegramVSchatgpt](images/telegramVSchatgpt.jpg)
 ![sql](images/sql.png)
 
